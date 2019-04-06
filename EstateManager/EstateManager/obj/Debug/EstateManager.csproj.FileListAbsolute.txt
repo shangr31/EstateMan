@@ -1,0 +1,392 @@
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.exe.config
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\HomePage.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\ListPage.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\MainWindow.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\App.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_Content.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_MarkupCompile.cache
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_MarkupCompile.lref
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\LoaderView.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csprojAssemblyReference.cache
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\x86\e_sqlite3.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\x64\e_sqlite3.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.exe.config
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.exe
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.pdb
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Win32.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\netstandard.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.AppContext.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Concurrent.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.NonGeneric.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Specialized.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.TypeConverter.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Console.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Data.Common.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Contracts.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Debug.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Process.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.StackTrace.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Tools.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.TraceSource.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Tracing.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Drawing.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Dynamic.Runtime.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.Calendars.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.Extensions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Compression.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Compression.ZipFile.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.Watcher.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.IsolatedStorage.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.MemoryMappedFiles.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Pipes.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Expressions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Parallel.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Queryable.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Http.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.NameResolution.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.NetworkInformation.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Ping.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Requests.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Security.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Sockets.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebHeaderCollection.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebSockets.Client.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebSockets.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ObjectModel.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.Extensions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.Reader.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.ResourceManager.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.Writer.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Extensions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Handles.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.InteropServices.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Numerics.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Json.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Xml.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Claims.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Csp.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Encoding.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Principal.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.SecureString.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.Encoding.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.Encoding.Extensions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.RegularExpressions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Overlapped.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Tasks.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Tasks.Parallel.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Thread.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.ThreadPool.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Timer.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ValueTuple.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.ReaderWriter.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XDocument.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XmlDocument.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XmlSerializer.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XPath.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XPath.XDocument.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\FontAwesome.WPF.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Data.Sqlite.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Options.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Newtonsoft.Json.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Remotion.Linq.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.batteries_green.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.core.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Buffers.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Immutable.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.Annotations.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Interactive.Async.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Memory.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Numerics.Vectors.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\FontAwesome.WPF.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Data.Sqlite.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Options.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Newtonsoft.Json.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Remotion.Linq.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Buffers.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Immutable.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Interactive.Async.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Memory.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Numerics.Vectors.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\HomePage.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\ListPage.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\LoaderView.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\MainWindow.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.g.resources
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.Properties.Resources.resources
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.GenerateResource.cache
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.CoreCompileInputs.cache
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.CopyComplete
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.exe
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.pdb
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AddEstateWindow.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AddEstateWindow.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AdOwnerWindow.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AdOwnerWindow.baml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Expression.Interactions.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Interactivity.dll
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Expression.Interactions.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Interactivity.xml
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AddContractWindow.g.cs
+\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\View\AddContractWindow.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csprojResolveAssemblyReference.cache
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.exe.config
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AddContractWindow.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AddEstateWindow.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AdOwnerWindow.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\HomePage.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\ListPage.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\LoaderView.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\App.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_Content.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_MarkupCompile.cache
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager_MarkupCompile.lref
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.exe
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.pdb
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\x86\e_sqlite3.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\x64\e_sqlite3.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.exe.config
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.exe
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\EstateManager.pdb
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\netstandard.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.AppContext.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Console.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Data.Common.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Compression.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.Pipes.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Http.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Ping.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Requests.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Security.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.Sockets.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ObjectModel.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.Reader.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Resources.Writer.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Claims.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.Principal.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Security.SecureString.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.Encoding.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Thread.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Threading.Timer.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ValueTuple.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XPath.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\FontAwesome.WPF.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Remotion.Linq.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Buffers.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Interactive.Async.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Memory.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\FontAwesome.WPF.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\Remotion.Linq.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Buffers.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Collections.Immutable.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Interactive.Async.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Memory.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AddContractWindow.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AddEstateWindow.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\AdOwnerWindow.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\HomePage.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\ListPage.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\LoaderView.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\View\MainWindow.baml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.g.resources
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.Properties.Resources.resources
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.GenerateResource.cache
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.CoreCompileInputs.cache
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\EstateManager.csproj.CopyComplete

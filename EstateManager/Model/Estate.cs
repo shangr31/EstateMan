@@ -126,10 +126,7 @@ namespace EstateManager.Model
                 if(Contracts?.Count > 0)
                     return Contracts.Where(c => c.CloseDate == null).FirstOrDefault()?.Price;
                 return null;
-                //else
-                //    return GetProperty<decimal?>();
             }
-            //private set { SetProperty(value); }
         }
 
         public Estate(int id, float surface, EstateType type, int roomsCount, int floorCount, int floorNumber, string address, string zip, string city, double latitude, double longitude, int energyEfficiency, int mainPhotoId, int ownerId)

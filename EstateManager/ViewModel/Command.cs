@@ -61,7 +61,7 @@ namespace EstateManager.ViewModel
 
         public bool CanExecute(object parameter)
         {
-            return _canExecute == null || _canExecute(GetParameter(parameter));
+            return _canExecute == null || parameter == null || _canExecute(GetParameter(parameter));
         }
 
         public virtual void Execute(object parameter)

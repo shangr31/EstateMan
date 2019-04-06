@@ -120,7 +120,6 @@ namespace EstateManager.ViewModel
                             EnergyEfficiency = Int32.Parse(EnergyEfficiency),
                             OwnerId = Owner.Id,
                             BuildDate = BuildDate
-
                         };
                         DataAccess.EstateDbContext.Current.Add(c);
 

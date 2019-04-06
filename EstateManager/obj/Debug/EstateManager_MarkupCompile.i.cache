@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\obj\Debug\
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\obj\Debug\
 EstateManager
 none
 false
 DEBUG;TRACE
-\\iutbg-smbetu.univ-lyon1.fr\homes\Bureau\estateMan\EstateManager\EstateManager\App.xaml
+C:\Users\cloza\Desktop\TOUT\IUT\2eme annee\dotNet\estateMan\EstateManager\EstateManager\App.xaml
 7819108938
-21665467588
-372123622500
-157937296409
+21118542532
+372134381582
+157502616327
 View\AddContractWindow.xaml;View\AddEstateWindow.xaml;View\AdOwnerWindow.xaml;View\HomePage.xaml;View\ListPage.xaml;View\LoaderView.xaml;View\MainWindow.xaml;
 
-False
+True
 

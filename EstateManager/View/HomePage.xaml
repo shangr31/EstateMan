@@ -22,28 +22,28 @@
 
         <DVC:Chart Background="Orange" Grid.Row="0" Grid.Column="0">
             <DVC:Chart.Series>
-                <DVC:ScatterSeries Title="Experiement" ItemsSource="{Binding Fseries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
+                <DVC:ScatterSeries Title="Experiement" ItemsSource="{Binding EstateTypeSeries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
             </DVC:Chart.Series>
         </DVC:Chart>
 
         <DVC:Chart Background="LightBlue" Grid.Row="0" Grid.Column="1">
             <DVC:Chart.Series>
-                <DVC:PieSeries Title="Experiement" ItemsSource="{Binding Fseries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
+                <DVC:PieSeries Title="Experiement" ItemsSource="{Binding EstateTypeSeries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
 
             </DVC:Chart.Series>
         </DVC:Chart>
 
         <DVC:Chart Background="LightGreen" Grid.Row="1" Grid.Column="0">
             <DVC:Chart.Series>
-                <DVC:AreaSeries Title="load" ItemsSource="{Binding Tseries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
-                <DVC:AreaSeries Title="Experiement" ItemsSource="{Binding Fseries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
+                <DVC:AreaSeries Title="Rental" ItemsSource="{Binding RentalEstateTypeSeries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
+                <DVC:AreaSeries Title="Sale" ItemsSource="{Binding SaleEstateTypeSeries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
 
             </DVC:Chart.Series>
         </DVC:Chart>
 
         <DVC:Chart Background="Pink" Grid.Row="1" Grid.Column="1">
             <DVC:Chart.Series>
-                <DVC:PieSeries Title="Experiement" ItemsSource="{Binding Fseries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
+                <DVC:PieSeries Title="Experiement" ItemsSource="{Binding ContractTypeSeries}"  DependentValuePath="Value" IndependentValuePath="Key" IsSelectionEnabled="True" />
 
             </DVC:Chart.Series>
         </DVC:Chart>

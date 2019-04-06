@@ -94,7 +94,7 @@
 
 
         <ComboBox Grid.Row="5" Grid.Column="1" ItemsSource="{Binding OwnersList}" SelectedItem="{Binding Owner}" />
-        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Rooms}"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding RoomsCount}"/>
         <DatePicker Grid.Row="7" Grid.Column="1" SelectedDate="{Binding BuildDate}"/>
         <TextBox Grid.Row="8" Grid.Column="1" Text="{Binding Floors}"/>
         <TextBox Grid.Row="9" Grid.Column="1" Text="{Binding FloorNumber}"/>

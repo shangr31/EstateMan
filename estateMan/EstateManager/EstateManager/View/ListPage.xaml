@@ -1,0 +1,266 @@
+﻿<Page x:Class="EstateManager.View.ListPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EstateManager.View"
+      xmlns:viewmodel="clr-namespace:EstateManager.ViewModel"
+      xmlns:c="clr-namespace:EstateManager.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ListPage">
+
+    <Page.Resources>
+        <c:Base64StringToBitmapImageConverter x:Key="ImageConverter"/>
+    </Page.Resources>
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- COLUMN 0 -->
+        <ListBox Grid.Column="0" ItemsSource="{Binding FilteredEstateList}" SelectedItem="{Binding CurrentEstate}" >
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width = "4*"/>
+                            <ColumnDefinition Width = "3*"/>
+                            <ColumnDefinition Width = "3*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height = "*"/>
+                                <RowDefinition Height = "*"/>
+                                <RowDefinition Height = "*"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width = "*"/>
+                                <ColumnDefinition Width = "*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Grid.Row="0" Grid.Column="0" Text="{Binding Address}" HorizontalAlignment="Center" />
+                            <TextBlock Grid.Row="1" Grid.Column="0" Text="{Binding Zip}" HorizontalAlignment="Center" />
+                            <TextBlock Grid.Row="2" Grid.Column="0" Text="{Binding City}" HorizontalAlignment="Center" />
+
+                            <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding Type}" HorizontalAlignment="Center" Margin="20,0,0,0"/>
+                            <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Surface, StringFormat= '\{0\} m²'}" HorizontalAlignment="Center" Margin="20,0,0,0" />
+                            <TextBlock Grid.Row="2" Grid.Column="1" Text="{Binding CurrentPrice, StringFormat= '\{0\} €'}" HorizontalAlignment="Center" Margin="20,0,0,0" />
+                        </Grid>
+
+                        <Button Grid.Column="1" Width="50" Margin="15,5,5,5">
+                            <Button.Content>
+                                <Image Source="/;component/Pictures/Plus.png" Stretch="Uniform"></Image>
+                            </Button.Content>
+                        </Button>
+
+                        <Button Grid.Column="2" Width="50" Margin="5,5,5,5">
+                            <Button.Content>
+                                <Image Source="/;component/Pictures/Modif.png" Stretch="Uniform"></Image>
+                            </Button.Content>
+                        </Button>
+                    </Grid>
+                    
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ListBox>
+
+        <!-- COLUMN 1 -->
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="120"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="25"/>
+            </Grid.RowDefinitions>
+
+            <!-- HEADER FILTER SORT -->
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                
+                <!-- FILTERS -->
+                <GroupBox Header="ESTATE TYPE" Grid.Row="0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <RadioButton Content="All" Grid.Column="0" IsChecked="{Binding noSelectionET}"/>
+                        <RadioButton Content="Flat" Grid.Column="1" IsChecked="{Binding isFlat}"/>
+                        <RadioButton Content="House" Grid.Column="2" IsChecked="{Binding isHouse}"/>
+                        <RadioButton Content="Garage" Grid.Column= "3" IsChecked="{Binding isGarage}"/>
+                        <RadioButton Content="Field" Grid.Column="4" IsChecked="{Binding isField}"/>
+                        <RadioButton Content="Local" Grid.Column="5" IsChecked="{Binding isCommercialLocal}"/>
+                        <RadioButton Content="Others" Grid.Column="6" IsChecked="{Binding isOthers}"/>
+                    </Grid>
+                </GroupBox>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="2*"/>                        
+                    </Grid.ColumnDefinitions>
+                    <GroupBox Header="CONTRACT TYPE" Grid.Column="0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <RadioButton Content="All" Grid.Column="0" IsChecked="{Binding noSelectionCT}"/>
+                            <RadioButton Content="Sale" Grid.Column="1" IsChecked="{Binding isSale}"/>
+                            <RadioButton Content="Rental" Grid.Column="2" IsChecked="{Binding isRental}"/>
+                        </Grid>
+                    </GroupBox>
+
+                    <GroupBox Header="CONTRACT PENDING ?" Grid.Column="1">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <RadioButton Content="All" Grid.Column="0" IsChecked="{Binding noSelectionCP}"/>
+                            <RadioButton Content="Offers" Grid.Column="1" IsChecked="{Binding isOffer}"/>
+                            <RadioButton Content="Signed" Grid.Column="2" IsChecked="{Binding isSigned}"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+                
+
+                <!-- SORTERS -->
+                <GroupBox Header="SORT BY" Grid.Row="2">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <RadioButton Content="Price" Grid.Column="0" IsChecked="{Binding isPrice}"/>
+                        <RadioButton Content="Surface" Grid.Column="1" IsChecked="{Binding isSurface}"/>
+                        <RadioButton Content="City" Grid.Column="2" IsChecked="{Binding isCity}"/>
+                        <RadioButton Content="Rooms" Grid.Column="3" IsChecked="{Binding isRooms}"/>
+                        <RadioButton Content="EnergyEfficiency" Grid.Column="4" IsChecked="{Binding isEnergyEfficiency}"/>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+            
+            <!-- INFO DISPLAY -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- LEFT PIC / TYPE / ADRESS ZIP CITY --> 
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4*"/>
+                        <RowDefinition Height="6*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <!-- ROW 0 PICTURE -->
+                    <Image Grid.Row="0" Source="{Binding Path=image,Converter={StaticResource ImageConverter}}"/>
+<!--CurrentEstate.MainPhoto.Content-->
+                    <!-- ROW 1 TYPE ADRESS ZIP CITY -->
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        
+                        <!-- COLUMN 0 TITLES -->
+                        <TextBlock Grid.Column="0" Grid.Row="0" Text="Type"/>
+                        <TextBlock Grid.Column="0" Grid.Row="1" Text="Adress"/>
+                        <TextBlock Grid.Column="0" Grid.Row="2" Text="Zip"/>
+                        <TextBlock Grid.Column="0" Grid.Row="3" Text="City"/>
+
+                        <!-- COLUMN 1 INFOS -->
+                        <TextBlock Grid.Column="1" Grid.Row="0" Text="{Binding CurrentEstate.Type}"/>
+                        <TextBlock Grid.Column="1" Grid.Row="1" Text="{Binding CurrentEstate.Address}"/>
+                        <TextBlock Grid.Column="1" Grid.Row="2" Text="{Binding CurrentEstate.Zip}"/>
+                        <TextBlock Grid.Column="1" Grid.Row="3" Text="{Binding CurrentEstate.City}"/>
+                    </Grid>
+                </Grid>
+                
+                <!-- RIGHT OTHERS -->
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <!-- COLUMN 0 TITLES -->
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="Surface"/>
+                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Rooms"/>
+                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Build date"/>
+                    <TextBlock Grid.Column="0" Grid.Row="3" Text="Floors"/>
+                    <TextBlock Grid.Column="0" Grid.Row="4" Text="Floor number"/>
+                    <TextBlock Grid.Column="0" Grid.Row="5" Text="Energy efficiency"/>
+                    <TextBlock Grid.Column="0" Grid.Row="6" Text="Price"/>
+
+                    <!-- COLUMN 1 INFOS -->
+                    <TextBlock Grid.Column="1" Grid.Row="0" Text="{Binding CurrentEstate.Surface}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="1" Text="{Binding CurrentEstate.RoomsCount}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="2" Text="{Binding FormatedBuildDate}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="3" Text="{Binding CurrentEstate.FloorCount}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="4" Text="{Binding CurrentEstate.FloorNumber}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="5" Text="{Binding CurrentEstate.EnergyEfficiency}"/>
+                    <TextBlock Grid.Column="1" Grid.Row="6" Text="{Binding CurrentEstate.CurrentPrice}"/>
+
+                </Grid>
+            </Grid>
+            
+            <!-- FOOTER ADD / MODIF / DELETE -->
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <Button Grid.Column="0" Content="Create List"/>
+                <Button Grid.Column="1" Content="AJOUT" Command="{Binding AddEstateButton}"/>
+                <Button Grid.Column="2" Content="MODIF"/>
+                <Button Grid.Column="3" Content="SUPPR" Command="{Binding DeleteSelectedItem}"/>
+                
+            </Grid>
+            
+            
+        </Grid>
+    </Grid>
+</Page>

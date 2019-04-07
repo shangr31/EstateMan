@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Desktop\estateMan\EstateManager\EstateManager\obj\Debug\
+D:\Documents\GitHub\EstateMan\estateMan\EstateManager\EstateManager\obj\Debug\
 EstateManager
 none
 false
 DEBUG;TRACE
-D:\Desktop\estateMan\EstateManager\EstateManager\App.xaml
+D:\Documents\GitHub\EstateMan\estateMan\EstateManager\EstateManager\App.xaml
 6-1819259798
-2-1936619063
+2-411411810
 33-682025901
-157-473009479
+157-1874155268
 View\AddEstateWindow.xaml;View\AdOwnerWindow.xaml;View\HomePage.xaml;View\ListPage.xaml;View\LoaderView.xaml;View\MainWindow.xaml;
 
 False

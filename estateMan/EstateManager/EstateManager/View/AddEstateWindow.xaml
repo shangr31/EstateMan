@@ -117,7 +117,7 @@
 
         <ComboBox Grid.Row="5" Grid.Column="1" ItemsSource="{Binding OwnersList}" SelectedItem="{Binding Owner}" >
         </ComboBox>
-        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Rooms}">
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding RoomsCount}">
             <i:Interaction.Behaviors>
                 <behaviors:NumericTextBoxBehavior AllowDecimal="False" />
             </i:Interaction.Behaviors>
